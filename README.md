@@ -10,7 +10,7 @@
 src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 
-<h2>🚀 About Me</h2>
+<h3>🚀 About Me</h3>
 
 - 👨‍💻 I'm a Full-Stack Developer, based in India
 - 💻 Passionate about building fullstack apps with **React**, **Next.js** and **JavaScript**
