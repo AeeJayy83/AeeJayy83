@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" height=190 width=300 alt="coding-gif" 
+<img align="right" height=170 width=290 alt="coding-gif" 
 src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 
